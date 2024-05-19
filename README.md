@@ -66,4 +66,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-This README provides a brief overview of the iScale Flutter application, guiding users through installation, usage, and contributing to the project. Customize it further to include specific details about your project and its functionalities. Let me know if you need any further assistance!
+
