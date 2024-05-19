@@ -1,4 +1,3 @@
-Here's an updated README.md tailored to your Flutter application:
 
 ---
 
